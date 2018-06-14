@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cdra0624/aoj-dojo/issues"
   },
-  "homepage": "https://github.com/cdra0624/aoj-dojo#readme"
+  "homepage": "https://github.com/cdra0624/aoj-dojo#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
 }
